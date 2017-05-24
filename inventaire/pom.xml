@@ -169,7 +169,7 @@
   
   
   <scm>
-    <developerConnection>scm:git:https://github.com/AurFer/inventaire.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/AurFer/formation.git</developerConnection>
   <tag>inventaire-2.0.1</tag>
   </scm>
 </project>
